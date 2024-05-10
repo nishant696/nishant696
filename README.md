@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nishant696 (Nishant Khandelwal)
-- 👀 I’m interested in java and projects in java , Intrested in devlopment and love to do Android devlopment
+- 👀 I’m interested in python and projects in python , Intrested in data analysis and data science and love to contribute
  and helping the community and to grow and learn with the community.
 - 🌱 I’m currently learning and also willing to build
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
-Twitter handle - https://twitter.com/Nishant88284782
+Linkedin handle - https://www.linkedin.com/in/nishant-khandelwal-1a67481ba/
 Gmail account - nishantsarita413@gmail.com
 
 <!---
