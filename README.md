@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 Linkedin handle - https://www.linkedin.com/in/nishant-khandelwal-1a67481ba/
-Gmail account - nishantsarita413@gmail.com
+Gmail account - khandelwalnishant1111@gmail.com
 
 <!---
 nishant696/nishant696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
